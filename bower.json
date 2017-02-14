@@ -1,0 +1,24 @@
+{
+  "name": "distraction-free",
+  "description": "jquery plugin which add distration free mode to a web page div",
+  "main": "",
+  "authors": [
+    "karrikas <karrikas@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "distration",
+    "free"
+  ],
+  "homepage": "http://karrikas.github.io/distration-free",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
